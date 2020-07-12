@@ -25,7 +25,7 @@ class MyApp extends StatelessWidget {
                 new Container(
                   padding: const EdgeInsets.only(bottom: 10.0),
                   child: new Text(
-                    "Keep on loving you",
+                    "Aloha",
                     style: new TextStyle(
                         fontWeight: FontWeight.bold, fontSize: 18.0),
                   ),
